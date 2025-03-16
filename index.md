@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="1669286590372.jpg" alt="Profile Image" style="width: 150px; border-radius: 50%; margin-right: 20px;">
+  <img src="1669286590372.jpg" alt="Profile Image" style="width: 150px; margin-right: 20px;">
   <p>Hi, I'm Minjeong! I'm an HCI researcher interested in human-centered AI and technology adoption across generations.</p>
 </div>
 
@@ -18,9 +18,9 @@ Originally drawn to the gaming industry, I became more fascinated by how people 
 
 ## Education
 <div style="display: grid; grid-template-columns: 1fr 2fr 1fr; gap: 10px;">
-  <div>2020 - 2024</div>
-  <div><b>Ph.D. in HCI, University Name</b><br>Research in conversational AI and user experience.</div>
-  <div>City, Country</div>
+  <div>Mar 2019 - Aug 2024</div>
+  <div><b>Seoul National University</b><br>Bachelor's degree, Hispanic Language and Literature, Information Science and Culture<br>Grade: 4.1/4.3 *Summa Cum Laude*</div>
+  <div>Seoul, Republic of Korea</div>
 </div>
 
 ## Publications
@@ -29,15 +29,22 @@ Originally drawn to the gaming industry, I became more fascinated by how people 
 
 **AltAuthor: A Context-Aware Alt Text Authoring Tool with Image Classification and LMM-Powered Accessibility Compliance** Hyungwoo Song, _Minjeong Shin_, Yeonjoon Kim, Kyochul Jang, Jaehoon Choi, Hyunggu Jung, Bongwon Suh, The ACM Conference on Intelligent User Interfaces (IUI '25)
 
-[**EmoBridge: Bridging the Communication Gap between Students with Disabilities and Peer Note-Takers Utilizing Emojis and Real-Time Sharing**](https://dl.acm.org/doi/10.1145/3663548.3675629) Hyungwoo Song*, _Minjeong Shin*_, Hyehyun Chu*, Jiin Hong*, Jaechan Lee, Jinsu Eun, Hajin Lim, Proceedings of the 26th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '24) | *contributed equally
+**Design Guidelines for Enhancing Korean Voice Assistants with Discourse Markers Using LLMs** _Minjeong Shin*_, Jaehoon Choi*, Junghwan Kim, Hyungwoo Song, Bongwon Suh, Proceedings of HCI Korea 2025 (HCIK '25)  *contributed equally
 
-[**EmoBridge: Design of a Collaborative Note-taking System to Improve Communication between Students with Disabilities and Peer Notetaker**](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11714774),  Hyungwoo Song*, _Minjeong Shin*_, Hyehyun Chu*, Jiin Hong*, Jaechan Lee, Jinsu Eun, Hajin Lim, Proceedings of HCI Korea 2024 (HCIK '24) | *contributed equally
+[**EmoBridge: Bridging the Communication Gap between Students with Disabilities and Peer Note-Takers Utilizing Emojis and Real-Time Sharing**](https://dl.acm.org/doi/10.1145/3663548.3675629) Hyungwoo Song*, _Minjeong Shin*_, Hyehyun Chu*, Jiin Hong*, Jaechan Lee, Jinsu Eun, Hajin Lim, Proceedings of the 26th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '24)  *contributed equally
 
-## Awards and Honors
+[**EmoBridge: Design of a Collaborative Note-taking System to Improve Communication between Students with Disabilities and Peer Notetaker**](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11714774),  Hyungwoo Song*, _Minjeong Shin*_, Hyehyun Chu*, Jiin Hong*, Jaechan Lee, Jinsu Eun, Hajin Lim, Proceedings of HCI Korea 2024 (HCIK '24)  *contributed equally *Best Poster Award*
 
 
 ## Skills and Techniques
 ### Languagues
+- **Korean** Native or bilingual proficiency
+- **English** Full professional proficiency
+- **Spanish** Professional working proficiency
+- **French** Professional working proficiency
+
+
+
 
 ## Contact
 - Email: shinmj1024@snu.ac.kr
