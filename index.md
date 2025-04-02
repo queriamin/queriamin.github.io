@@ -27,7 +27,7 @@ Originally drawn to the gaming industry, I became more fascinated by how people 
 
 **"I feel you, but...": Exploring the Boundaries of Pragmatic Markers in Real-time Voice-based Conversational Agents** _Minjeong Shin_, Jaehoon Choi, Hyungwoo Song, Junghwan Kim, Bongwon Suh, Extended Abstracts of the 2025 CHI Conference on Human Factors in Computing Systems (CHI EA '25) *accepted*
 
-**AltAuthor: A Context-Aware Alt Text Authoring Tool with Image Classification and LMM-Powered Accessibility Compliance** Hyungwoo Song, _Minjeong Shin_, Yeonjoon Kim, Kyochul Jang, Jaehoon Choi, Hyunggu Jung, Bongwon Suh, The ACM Conference on Intelligent User Interfaces (IUI '25)
+[**AltAuthor: A Context-Aware Alt Text Authoring Tool with Image Classification and LMM-Powered Accessibility Compliance**](https://dl.acm.org/doi/10.1145/3708557.3716366) Hyungwoo Song, _Minjeong Shin_, Yeonjoon Kim, Kyochul Jang, Jaehoon Choi, Hyunggu Jung, Bongwon Suh, The ACM Conference on Intelligent User Interfaces (IUI '25)
 
 **Design Guidelines for Enhancing Korean Voice Assistants with Discourse Markers Using LLMs** _Minjeong Shin*_, Jaehoon Choi*, Junghwan Kim, Hyungwoo Song, Bongwon Suh, Proceedings of HCI Korea 2025 (HCIK '25)  *contributed equally
 
