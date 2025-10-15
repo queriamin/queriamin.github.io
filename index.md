@@ -34,7 +34,9 @@ Originally drawn to the gaming industry, I became more fascinated by how people 
 
 [**AltAuthor: A Context-Aware Alt Text Authoring Tool with Image Classification and LMM-Powered Accessibility Compliance**](https://dl.acm.org/doi/10.1145/3708557.3716366) Hyungwoo Song, _Minjeong Shin_, Yeonjoon Kim, Kyochul Jang, Jaehoon Choi, Hyunggu Jung, Bongwon Suh, The ACM Conference on Intelligent User Interfaces (IUI Adjunct'25)
 
-**Design Guidelines for Enhancing Korean Voice Assistants with Discourse Markers Using LLMs** _Minjeong Shin*_, Jaehoon Choi*, Junghwan Kim, Hyungwoo Song, Bongwon Suh, Proceedings of HCI Korea 2025 (HCIK '25)  *contributed equally
+[**Design Guidelines for Enhancing Korean Voice Assistants with Discourse Markers Using LLMs**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12131514) _Minjeong Shin*_, Jaehoon Choi*, Junghwan Kim, Hyungwoo Song, Bongwon Suh, Proceedings of HCI Korea 2025 (HCIK '25)  *contributed equally
+
+[**Proposal of a Personalized Multimedia E-book System Using Generative AI**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12131513) Hyeonseok Jeon, Yeonjoon Kim, Kyochul Jang, _Minjeong Shin_, Jaehoon Choi, Bongwon Suh, Proceedings of HCI Korea 2025 (HCIK '25)
 
 [**EmoBridge: Bridging the Communication Gap between Students with Disabilities and Peer Note-Takers Utilizing Emojis and Real-Time Sharing**](https://dl.acm.org/doi/10.1145/3663548.3675629) Hyungwoo Song*, _Minjeong Shin_, Hyehyun Chu*, Jiin Hong, Jaechan Lee, Jinsu Eun, Hajin Lim, Proceedings of the 26th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '24)  *contributed equally
 
