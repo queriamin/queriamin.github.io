@@ -1,10 +1,10 @@
 <div style="display: flex; align-items: center;">
-  <img src="1669286590372.jpg" alt="Profile Image" style="width: 150px; margin-right: 20px;">
+  <img src="profile.jpg" alt="Profile Image" style="width: 150px; margin-right: 20px;">
   <p>Hi, I'm Minjeong! I'm an HCI researcher interested in human-centered AI and technology adoption across generations.</p>
 </div>
 
 ## About Me
-I am an HCI researcher passionate about designing and evaluating human-centered technologies. My research interests lie in understanding how people across different generations interact with technology and how we can make these interactions more intuitive and accessible.
+I am an HCI researcher passionate about designing and evaluating human-centered technologies. My research interests lie in understanding how people interact with technology and how we can make these interactions more intuitive and accessible.
 
 With experience spanning research, design, development, and marketing, I enjoy working at the intersection of technology and human behavior. I have conducted user interviews, designed prototypes, and collaborated with multidisciplinary teams to explore innovative solutions.
 
@@ -18,16 +18,21 @@ Originally drawn to the gaming industry, I became more fascinated by how people 
 
 ## Education
 <div style="display: grid; grid-template-columns: 1fr 2fr 1fr; gap: 10px;">
+  <div>Sep 2024 - Current</div>
+  <div><b>Seoul National University</b><br>Master's Student, Human Centered Computing Lab, Department of Intelligence and Information<br></div>
+  <div>Seoul, Republic of Korea</div>
+  
   <div>Mar 2019 - Aug 2024</div>
   <div><b>Seoul National University</b><br>Bachelor's degree, Hispanic Language and Literature, Information Science and Culture<br>Grade: 4.1/4.3 Summa Cum Laude</div>
   <div>Seoul, Republic of Korea</div>
 </div>
 
 ## Publications
+[**CodeVoyager: An Interactive Tool for Rapid Code Comprehension through LLM-Assisted Graph Navigation**](https://dl.acm.org/doi/full/10.1145/3746058.3758378) Yeonjoon Kim, Kyochul Jang, Hyungwoo Song, _Minjeong Shin_, Bongwon Suh (UIST Adjunct '25)
 
 [**"I feel you, but...": Exploring the Boundaries of Pragmatic Markers in Real-time Voice-based Conversational Agents**](https://dl.acm.org/doi/10.1145/3706599.3719797) _Minjeong Shin*_, Jaehoon Choi*, Hyungwoo Song, Junghwan Kim, Bongwon Suh, Extended Abstracts of the 2025 CHI Conference on Human Factors in Computing Systems (CHI EA '25) *contributed equally
 
-[**AltAuthor: A Context-Aware Alt Text Authoring Tool with Image Classification and LMM-Powered Accessibility Compliance**](https://dl.acm.org/doi/10.1145/3708557.3716366) Hyungwoo Song, _Minjeong Shin_, Yeonjoon Kim, Kyochul Jang, Jaehoon Choi, Hyunggu Jung, Bongwon Suh, The ACM Conference on Intelligent User Interfaces (IUI '25)
+[**AltAuthor: A Context-Aware Alt Text Authoring Tool with Image Classification and LMM-Powered Accessibility Compliance**](https://dl.acm.org/doi/10.1145/3708557.3716366) Hyungwoo Song, _Minjeong Shin_, Yeonjoon Kim, Kyochul Jang, Jaehoon Choi, Hyunggu Jung, Bongwon Suh, The ACM Conference on Intelligent User Interfaces (IUI Adjunct'25)
 
 **Design Guidelines for Enhancing Korean Voice Assistants with Discourse Markers Using LLMs** _Minjeong Shin*_, Jaehoon Choi*, Junghwan Kim, Hyungwoo Song, Bongwon Suh, Proceedings of HCI Korea 2025 (HCIK '25)  *contributed equally
 
@@ -39,9 +44,9 @@ Originally drawn to the gaming industry, I became more fascinated by how people 
 ## Skills and Techniques
 ### Languagues
 - **Korean** Native or bilingual proficiency
-- **English** Full professional proficiency
-- **Spanish** Professional working proficiency
-- **French** Professional working proficiency
+- **English** Full professional proficiency (OPIC AL)
+- **Spanish** Professional working proficiency (DELE B2)
+- **French** Professional working proficiency (DELE B2)
 
 
 
